@@ -1,0 +1,16 @@
+Pokémon Black Ruby by Tushar
+New Evolution conditions:
+1. Kadabra ---(level 38)--->> Alakazam
+2. Machoke ---(level 38)--->>Machamp
+3. Graveller ---(level 40)--->> Golem
+4. Haunter ---(level 38)--->Gengar
+5. Seedra ---( Level up with holding Dragon scale )---> Kingdra
+6. Rhydon ---( Level up with holding Protector hold at Night time)---> Rhyperior
+7. Electabuzz---( Level up with holding Electrizer at Day time)---> Electivire
+8. Magmar ---( Level up with holding Magmarizer at Night time )---> Magmortar
+9. Dusclops ---( Level up with holding ReaperCloth  at Night time)---> Dusknoir
+10. Gurdurr ---(level 38)--->>Conkeldure
+11. Phantump---(level 42)--->>Trevenant
+12. Boldore---(level 42)--->>Gigalith
+
+And all the evolutions which require trading with a hold item will take place with levelling up with the required hold item.
